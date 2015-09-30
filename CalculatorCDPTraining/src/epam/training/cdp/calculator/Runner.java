@@ -1,3 +1,4 @@
+//Test commit for github.com usage
 package epam.training.cdp.calculator;
 
 import java.util.Scanner;
